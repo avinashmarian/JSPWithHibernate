@@ -1,2 +1,2 @@
-# JSPWithHibernate
-Creating a CRUD Project
+# spring-boot-hibernate-mysql
+How to integrate spring boot with Hibernate and MYSQL
